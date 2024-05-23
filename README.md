@@ -102,7 +102,7 @@ Router_4(config-router)#network 50.10.10.0 0.0.0.31 area 0
 ============
 ![router_DHCP-Server](https://github.com/chalyouness/LAB2-OSPF-HSRP-Serveur-DHCP_-/assets/114768920/41136a77-8863-4bb5-bd96-3804d9e69ac8)
 
-C.Youness(DHCP-Server)(config)#hostname C.Youness(DHCP-Server)
+Router(config)#hostname C.Youness(DHCP-Server)
 ==============
 C.Youness(DHCP-Server)(config)#interface fastEthernet 0/0
 ==============
