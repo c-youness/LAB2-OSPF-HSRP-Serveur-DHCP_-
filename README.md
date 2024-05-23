@@ -104,7 +104,8 @@ Router_4(config-router)#network 50.10.10.0 0.0.0.31 area 0
 
 C.Youness(DHCP-Server)(config)#hostname C.Youness(DHCP-Server)
 ==============
-C.Youness(DHCP-Server)(config)#interface fastEthernet 0/0 ==============
+C.Youness(DHCP-Server)(config)#interface fastEthernet 0/0
+==============
 C.Youness(DHCP-Server)(config-if)#ip address 10.10.10.4 255.255.255.0 
 ==============
 
